@@ -13,8 +13,7 @@ body,
 div {
     height: 100px;
     width: 100px;
-    background: #DAA520; /* Цвет фона */
-    border: 1px solid black; /* Параметры рамки */
+    background: hsl(43, 74%, 49%); /* Цвет фона */
     border-radius: 50px;
 }
 
