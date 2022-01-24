@@ -13,7 +13,7 @@ body,
 div {
     height: 100px;
     width: 100px;
-    background: hsl(43, 74%, 49%); /* Цвет фона */
+    background: #DAA520;
     border-radius: 50px;
 }
 
